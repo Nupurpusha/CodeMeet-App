@@ -1,0 +1,10 @@
+# Enforce consistent line endings
+* text=auto
+
+# Specific files (all use LF)
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.md text eol=lf
